@@ -1,4 +1,3 @@
-# Naiades
 ## Búsqueda laboral
 ### Ejercicios
 
